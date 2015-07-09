@@ -1,0 +1,58 @@
+
+   .--------------------------------------------.
+   |  PMCTOP  DayDream linux (c) PMC 1999-2015  |
+   `--------------------------------------------'
+
+        History of Bulletin Generator
+       -------------------------------
+ + added feature,  - general comment,  * fixed.
+
+11-07-2001 (00:02) / v0.1b r6
+==========================
+    * dsz_top routine has fuckedup flcose two times.
+    * highscore formatting, a bit...
+    
+
+
+07-02-2000 (21:22) / v0.1b r5 first BETA release (limited).
+==========================
+    + grouptop with week/month but not yeartop.
+    + highscore database. almost every damn thing is in here.
+    + cosmetic bug on bbs name entry, fixed.
+    - added h7 art as official pmctop feature :)
+    - first beta release out of pmc secret codelabs ;)
+
+
+
+06-16-2000 (03:30) / v0.1b r3
+==========================
+    + grouptop. general grouptop engine is working.
+    + weektop / monthtop / yeartop engine for users.
+    
+    
+
+08-20-1999 (??:??) / v0.1b
+==========================
+    + flowers beauty pmcparse.h and ultimate user configuration option 
+      for the outlook/layout style. works superb.
+    + Board_name in cfg file.
+    + cps_top. Creates bulletin from highest cps rate in pmcdsz.dat
+    + .gfx or .txt for ansi / text based bulletins.
+    - optimized lot of the code.
+
+
+
+08-17-1999 (??:??) / v0.0 
+==========================
+    + added configuration file, top-blaablaa how many users to list.
+
+
+08-16-1999 (??:??) / v0.0 
+==========================
+    + added the byte/file from "xxxxxxxxx" to "xxx.xxx.xxx" format.
+
+
+08-15-1999 (??:??) / v0.0x
+==========================
+    - started the project, actual code writing part. working pretty nice. 
+      doing top-??? uploaders/downloaders callers and faked users.

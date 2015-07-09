@@ -1,0 +1,16 @@
+*.[oa]
+*~
+*.zip
+*.tgz
+*.gz
+*.gfx
+*.txt
+*.dat
+pmctop
+pmcdata
+log
+wst
+beta-release/
+misc/
+example/
+pmcgroup.cfg
